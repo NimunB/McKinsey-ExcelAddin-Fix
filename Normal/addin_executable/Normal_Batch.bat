@@ -1,0 +1,1 @@
+C:\addin_executable\Normal.exe > C:\addin_executable\log.txt
